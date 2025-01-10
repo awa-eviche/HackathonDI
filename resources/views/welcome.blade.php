@@ -34,13 +34,13 @@
 
       <a href="index.html" class="logo d-flex align-items-center">
        
-        <h1 class="sitename">ComingSoon</h1>
+        <h1 class="sitename">Hackathon Jeunes</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Dashboard</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="#hero" class="active">Accueil</a></li>
+          <li><a href="#about">A Propos</a></li>
           <li><a href="#contact">Contact</a></li>
           <li> <a href="/login" 
    style="border: 0; 
@@ -69,17 +69,17 @@
       <div class="container text-center" data-aos="fade-up" data-aos-delay="100">
         <div class="row justify-content-center">
           <div class="col-lg-8">
-            <h2>ComingSoon</h2>
-            <p>We are still working on our website. Stay tuned for updates!</p>
+            <h2>Hackathon Jeunes</h2>
+            <p>Libérez votre créativité et transformez vos idées en réalité !</p>
           </div>
           <div class="countdown d-flex justify-content-center" data-count="2025/12/3">
             <div>
               <h3 class="count-days">482</h3>
-              <h4>Days</h4>
+              <h4>Jours</h4>
             </div>
             <div>
               <h3 class="count-hours">6</h3>
-              <h4>Hours</h4>
+              <h4>Heures</h4>
             </div>
             <div>
               <h3 class="count-minutes">49</h3>
@@ -87,7 +87,7 @@
             </div>
             <div>
               <h3 class="count-seconds">41</h3>
-              <h4>Seconds</h4>
+              <h4>Secondes</h4>
             </div>
           </div>
 
@@ -104,7 +104,7 @@
           text-decoration: none; 
           border-radius: 5px; 
           display: inline-block;">
-    S'inscrire au Hackaton
+    S'inscrire au Hackathon Jeunes
 </a>
 
        </div>
@@ -123,18 +123,17 @@
 
           <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Ne manquez pas l'occasion de briller dans notre hackathon. C'est l'endroit où les idées folles prennent vie et où les jeunes innovateurs se rencontrent. Inscrivez-vous maintenant et préparez-vous à faire des étincelles !
             </p>
             <ul>
-              <li><i class="bi bi-check2-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Des mentors expérimentés pour vous guider tout au long de l’événement.</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Un environnement stimulant pour transformer vos idées en solutions impactantes.</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Récompenses incroyables pour les meilleures innovations.</span></li>
             </ul>
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+            <p>Rejoignez-nous pour un hackathon où les idées brillent et les jeunes innovateurs s'épanouissent! </p>
           </div>
 
         </div>
@@ -149,7 +148,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <!--p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p-->
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -162,7 +161,7 @@
               <div class="col-md-6">
                 <div class="info-item" data-aos="fade" data-aos-delay="200">
                   <i class="bi bi-geo-alt"></i>
-                  <h3>Address</h3>
+                  <h3>Addresse</h3>
                   <p>A108 Adam Street</p>
                   <p>New York, NY 535022</p>
                 </div>
@@ -171,7 +170,7 @@
               <div class="col-md-6">
                 <div class="info-item" data-aos="fade" data-aos-delay="300">
                   <i class="bi bi-telephone"></i>
-                  <h3>Call Us</h3>
+                  <h3>Telephone</h3>
                   <p>+1 5589 55488 55</p>
                   <p>+1 6678 254445 41</p>
                 </div>
@@ -180,7 +179,7 @@
               <div class="col-md-6">
                 <div class="info-item" data-aos="fade" data-aos-delay="400">
                   <i class="bi bi-envelope"></i>
-                  <h3>Email Us</h3>
+                  <h3>Email</h3>
                   <p>info@example.com</p>
                   <p>contact@example.com</p>
                 </div>
@@ -189,9 +188,9 @@
               <div class="col-md-6">
                 <div class="info-item" data-aos="fade" data-aos-delay="500">
                   <i class="bi bi-clock"></i>
-                  <h3>Open Hours</h3>
-                  <p>Monday - Friday</p>
-                  <p>9:00AM - 05:00PM</p>
+                  <h3>Heures d'ouvertures</h3>
+                  <p>Lundi - Vendredi</p>
+                  <p>8:00AM - 17:00PM</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -241,7 +240,7 @@
 
     <div class="container">
       <div class="copyright text-center ">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">ComingSoon</strong> <span>All Rights Reserved</span></p>
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">CI</strong> <span>All Rights Reserved</span></p>
       </div>
       <div class="social-links d-flex justify-content-center">
         <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -254,7 +253,7 @@
         <!-- You can delete the links only if you've purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">CI</a>
       </div>
     </div>
 
